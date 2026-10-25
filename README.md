@@ -33,7 +33,7 @@
 
 <img src="./assets/div-c.png" width="280"/>
 
-📍 location: <br/>
+📍 location: extraterrestrial realm <br/>
 💌 do not perceive me (◕‿◕)♡
 
 ╰─────── ⋆｡˚ ❀ ˚｡⋆ ───────╯
