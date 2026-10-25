@@ -15,22 +15,12 @@
 
 <p align="center"><img src="./assets/about-title.svg" width="420" alt="about me"/></p>
 
+<img align="left" src="./assets/nini2.png" width="190"/>
+<img align="right" src="./assets/chii2.png" width="190"/>
+
 <div align="center">
 
-<table>
-<tr>
-<td align="center" valign="middle">
-
-`╭┈┈┈┈ ୨♡୧ ┈┈┈┈╮`
-
-<img src="./assets/nini2.png" width="180"/>
-
-`╰┈┈┈┈ ୨♡୧ ┈┈┈┈╯`
-
-</td>
-<td align="center" valign="middle">
-
-`╭─────────── ⋆｡˚ ❀ ˚｡⋆ ───────────╮`
+╭─────── ⋆｡˚ ❀ ˚｡⋆ ───────╮
 
 <img src="./assets/div-a.png" width="280"/>
 
@@ -41,30 +31,19 @@
 <img src="./assets/div-b.png" width="280"/>
 
 🎧 jersey club 24/7, no skips 🎧<br/>
-🌙 `3am commits only` 🌙<br/>
-🌱 grass status: <kbd>untouched</kbd> 🌱
+🌙 3am commits only 🌙<br/>
+🌱 grass status: untouched 🌱
 
 <img src="./assets/div-c.png" width="280"/>
 
 📍 location: ✎<br/>
 🛠️ building: ✎<br/>
-💌 <kbd>do not perceive me</kbd> <sub>(◕‿◕)♡</sub>
+💌 do not perceive me (◕‿◕)♡
 
-`╰─────────── ⋆｡˚ ❀ ˚｡⋆ ───────────╯`
-
-</td>
-<td align="center" valign="middle">
-
-`╭┈┈┈┈ ୨♡୧ ┈┈┈┈╮`
-
-<img src="./assets/chii2.png" width="180"/>
-
-`╰┈┈┈┈ ୨♡୧ ┈┈┈┈╯`
-
-</td>
-</tr>
-</table>
+╰─────── ⋆｡˚ ❀ ˚｡⋆ ───────╯
 
 </div>
+
+<br clear="both"/>
 
 <p align="center"><img src="./assets/likes19.png" width="100%" alt="likes: moe, gyaru, nge, jjba, league, music, pinponpanpon, politics. dislikes: larps, fanservice, slop, light mode, mid takes, net jitter, dead links, failed ragebait"/></p>
