@@ -13,7 +13,7 @@
 
 <img src="./assets/rainbow.svg" width="100%"/>
 
-<p align="center"><img src="./assets/about-title.svg" width="420" alt="about me"/></p>
+<p align="center"><img src="./assets/about-title2.svg" width="420" alt="about me"/></p>
 
 <img align="left" src="./assets/nini2.png" width="190"/>
 <img align="right" src="./assets/chii2.png" width="190"/>
