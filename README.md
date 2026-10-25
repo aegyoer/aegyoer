@@ -22,7 +22,7 @@
 <img src="./assets/div-a.png" width="280"/>
 
 🎀 **gunner** aka **aegyoer** 🎀<br/>
-💿 *raver angel* 💿<br/>
+💿 *edm saves all* 💿<br/>
 🐧 distro: **"arch"** <sub>(it's ubuntu)</sub> 🐧
 
 <img src="./assets/div-b.png" width="280"/>
