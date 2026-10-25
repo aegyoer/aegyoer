@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="10 2 200 36" width="200" height="36">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 40" width="220" height="40">
 <style>
 .j{animation:j 1.4s ease-in-out infinite;transform-box:fill-box}@keyframes j{0%,100%{transform:translateY(0)}40%{transform:translateY(-4px)}}
 .sp{animation:sp 1.6s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes sp{to{transform:rotate(360deg)}}
