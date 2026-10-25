@@ -18,18 +18,34 @@
 <img align="left" src="./assets/nini.png" width="170"/>
 <img align="right" src="./assets/chii.png" width="170"/>
 
+<div align="center">
+
 <br/>
 
-&nbsp;&nbsp;🎀 &nbsp;**gunner** on earth, **aegyoer** online<br/>
-&nbsp;&nbsp;💿 &nbsp;*internet angel / archive lover / part-time gremlin*<br/>
-&nbsp;&nbsp;🐧 &nbsp;distro: **"arch"** <sub>(it's ubuntu)</sub><br/>
-&nbsp;&nbsp;🎧 &nbsp;jersey club 24/7, no skips<br/>
-&nbsp;&nbsp;🌙 &nbsp;`3am commits only`<br/>
-&nbsp;&nbsp;🌱 &nbsp;grass status: <kbd>untouched</kbd><br/>
-&nbsp;&nbsp;📍 &nbsp;location: ✎<br/>
-&nbsp;&nbsp;🛠️ &nbsp;building: ✎<br/>
-&nbsp;&nbsp;💌 &nbsp;<kbd>do not perceive me</kbd> &nbsp;<sub>(◕‿◕)♡</sub>
+✧･ﾟ: *✧･ﾟ:* ♡ *:･ﾟ✧*:･ﾟ✧
+
+🎀 **gunner** on earth, **aegyoer** online 🎀<br/>
+💿 *internet angel / archive lover / part-time gremlin* 💿<br/>
+🐧 distro: **"arch"** <sub>(it's ubuntu)</sub> 🐧
+
+⋆｡°✩ ━━━━━━ ✩°｡⋆
+
+🎧 jersey club 24/7, no skips 🎧<br/>
+🌙 `3am commits only` 🌙<br/>
+🌱 grass status: <kbd>untouched</kbd> 🌱
+
+⋆｡°✩ ━━━━━━ ✩°｡⋆
+
+📍 location: ✎<br/>
+🛠️ building: ✎<br/>
+💌 <kbd>do not perceive me</kbd> <sub>(◕‿◕)♡</sub>
+
+₊˚⊹♡ ₊˚⊹♡ ₊˚⊹♡
+
+</div>
 
 <br clear="both"/>
+
+<p align="center"><img src="./assets/ascii-rainbow.svg" width="300" alt="rainbow ascii art"/><br/><sub>⋆ ˚｡⋆୨୧˚ thx for reading ˚୨୧⋆｡˚ ⋆</sub></p>
 
 <p align="center"><img src="./assets/likes19.png" width="100%" alt="likes: moe, gyaru, nge, jjba, league, music, pinponpanpon, politics. dislikes: larps, fanservice, slop, light mode, mid takes, net jitter, dead links, failed ragebait"/></p>
