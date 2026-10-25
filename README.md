@@ -57,9 +57,8 @@
 
 <p align="center"><img src="./assets/h-music.svg" width="62%"/></p>
 
-<!-- last.fm: swap YOUR_LASTFM for your last.fm username -->
 <p align="center">
-<a href="https://www.last.fm/user/YOUR_LASTFM"><img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=YOUR_LASTFM&count=4&width=440&radius=20&bg_color=fff0f8&text_color=2a1838&artist_color=ff5caa&meta_color=b89cff&accent_color=ff5caa&loved_color=ff5caa&loved=title" alt="last.fm"/></a> <img src="./assets/angel.gif" width="110"/>
+<a href="https://www.last.fm/user/u-u-u-u-u"><img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=u-u-u-u-u&count=4&width=440&radius=20&bg_color=fff0f8&text_color=2a1838&artist_color=ff5caa&meta_color=b89cff&accent_color=ff5caa&loved_color=ff5caa&loved=title" alt="last.fm"/></a> <img src="./assets/angel.gif" width="110"/>
 </p>
 
 <!-- discord: join the Lanyard server (discord.gg/lanyard) then swap YOUR_DISCORD_ID for your user id -->
@@ -71,11 +70,22 @@
 
 <p align="center"><img src="./assets/h-anime.svg" width="62%"/></p>
 
-<!-- anilist: swap YOUR_ANILIST for your anilist username -->
 <p align="center">
-<a href="https://anilist.co/user/YOUR_ANILIST"><img src="https://api.anicards.alpha49.com/card.svg?cardType=animeStats&userName=YOUR_ANILIST&variation=default&backgroundColor=%23fff0f8&titleColor=%23ff5caa&textColor=%232a1838&circleColor=%23b89cff&borderColor=%23ff8fd0&borderRadius=20" width="49%" alt="anime stats"/></a>
-<a href="https://anilist.co/user/YOUR_ANILIST"><img src="https://api.anicards.alpha49.com/card.svg?cardType=animeGenres&userName=YOUR_ANILIST&variation=pie&backgroundColor=%23fff0f8&titleColor=%23ff5caa&textColor=%232a1838&circleColor=%23b89cff&borderColor=%23ff8fd0&borderRadius=20" width="49%" alt="anime genres"/></a>
+<a href="https://anilist.co/user/athide"><img src="https://api.anicards.alpha49.com/card.svg?cardType=animeStats&userName=athide&variation=default&backgroundColor=%23fff0f8&titleColor=%23ff5caa&textColor=%232a1838&circleColor=%23b89cff&borderColor=%23ff8fd0&borderRadius=20" width="49%" alt="anime stats"/></a>
+<a href="https://anilist.co/user/athide"><img src="https://api.anicards.alpha49.com/card.svg?cardType=animeGenres&userName=athide&variation=pie&backgroundColor=%23fff0f8&titleColor=%23ff5caa&textColor=%232a1838&circleColor=%23b89cff&borderColor=%23ff8fd0&borderRadius=20" width="49%" alt="anime genres"/></a>
 </p>
+
+<img src="./assets/rainbow.svg" width="100%"/>
+
+<p align="center"><img src="./assets/h-movies.svg" width="62%"/></p>
+
+<img align="right" src="./assets/scream.gif" width="170"/>
+
+<!-- LETTERBOXD:START -->
+🎞️ *films show up here after the "letterboxd diary" workflow runs* (◕‿◕)
+<!-- LETTERBOXD:END -->
+
+<br clear="both"/>
 
 <img src="./assets/rainbow.svg" width="100%"/>
 
