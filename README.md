@@ -4,7 +4,7 @@
 
 <img src="./assets/marquee.svg" width="100%"/>
 
-<img align="left" src="./assets/L-full.png" width="33%"/><img align="right" src="./assets/R-full.png" width="33%"/>
+<img align="left" src="./assets/L-full.png" width="32%"/><img align="right" src="./assets/R-full.png" width="32%"/>
 <img src="./assets/visits.svg" width="30%" alt="visits"/><br/>
 <img src="https://count.getloli.com/@aegyoer?name=aegyoer&theme=moebooru&padding=6&darkmode=0" width="30%" alt="visitors"/><br/><img src="./assets/pups.gif" width="30%" alt=""/>
 <br clear="both"/>
