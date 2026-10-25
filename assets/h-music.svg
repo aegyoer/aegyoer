@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 96" width="620" height="96"><style>
+.tw{animation:tw 1.8s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes tw{0%,100%{opacity:.25;transform:scale(.6) rotate(0)}50%{opacity:1;transform:scale(1.15) rotate(25deg)}}
+.bob{animation:bob 2.6s ease-in-out infinite;transform-box:fill-box}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+.wig{animation:wig 2.2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes wig{0%,100%{transform:rotate(-5deg)}50%{transform:rotate(5deg)}}
+.pop{animation:pop 1.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes pop{0%,100%{transform:scale(1)}50%{transform:scale(1.08)}}
+.blink{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}
+</style>
+<g class="wig" transform="translate(0 6)"><rect x="180" y="8" width="260" height="66" rx="10" fill="#2a1838" stroke="#ff8fd0" stroke-width="3"/>
+<rect x="196" y="16" width="228" height="26" rx="4" fill="#ffe46e"/>
+<text x="310" y="35" text-anchor="middle" font-family="'Arial Rounded MT Bold','Varela Round','Comic Sans MS','Trebuchet MS',sans-serif" font-size="16" font-weight="700" fill="#2a1838">♪ now spinning ♪</text>
+<circle cx="262" cy="56" r="10" fill="#fff"/><circle cx="358" cy="56" r="10" fill="#fff"/>
+<rect x="276" y="50" width="68" height="12" rx="3" fill="#b89cff"/></g>
+<path class="tw" d="M140 28Q141.8 38.2 152 40Q141.8 41.8 140 52Q138.2 41.8 128 40Q138.2 38.2 140 28z" fill="#ff5caa"/><g transform="translate(480 34) scale(1.3)"><path class="pop" d="M0 4C-6-4-14 2-8 8L0 15 8 8C14 2 6-4 0 4z" fill="#7ee8c4" stroke="#fff" stroke-width="1.2"/></g><polygon class="tw" points="500.0,53.0 502.4,58.7 508.6,59.2 503.9,63.3 505.3,69.3 500.0,66.0 494.7,69.3 496.1,63.3 491.4,59.2 497.6,58.7" fill="#ff9a3c" stroke="#fff" stroke-width="1.5"/></svg>

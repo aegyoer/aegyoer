@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 80" width="620" height="80"><style>
+.tw{animation:tw 1.8s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes tw{0%,100%{opacity:.25;transform:scale(.6) rotate(0)}50%{opacity:1;transform:scale(1.15) rotate(25deg)}}
+.bob{animation:bob 2.6s ease-in-out infinite;transform-box:fill-box}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+.wig{animation:wig 2.2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes wig{0%,100%{transform:rotate(-5deg)}50%{transform:rotate(5deg)}}
+.pop{animation:pop 1.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes pop{0%,100%{transform:scale(1)}50%{transform:scale(1.08)}}
+.blink{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}
+</style>
+<defs><filter id="g"><feGaussianBlur stdDeviation="3"/></filter></defs>
+<rect x="170" y="10" width="280" height="60" rx="12" fill="#1c1026" stroke="#ff5caa" stroke-width="3"/>
+<g class="blink" style="animation-duration:2.4s"><text x="310" y="50" text-anchor="middle" font-family="'Courier New',ui-monospace,monospace" font-size="26" font-weight="700" fill="#7ee8c4" filter="url(#g)">STATS.exe</text></g>
+<text x="310" y="50" text-anchor="middle" font-family="'Courier New',ui-monospace,monospace" font-size="26" font-weight="700" fill="#c9fff0">STATS.exe</text>
+<polygon class="tw" points="130.0,27.0 133.4,35.3 142.4,36.0 135.6,41.8 137.6,50.5 130.0,45.9 122.4,50.5 124.4,41.8 117.6,36.0 126.6,35.3" fill="#ffe46e" stroke="#fff" stroke-width="1.5"/><path class="tw" d="M490 20Q491.5 28.5 500 30Q491.5 31.5 490 40Q488.5 31.5 480 30Q488.5 28.5 490 20z" fill="#b89cff"/><g transform="translate(500 58) scale(1)"><path class="pop" d="M0 4C-6-4-14 2-8 8L0 15 8 8C14 2 6-4 0 4z" fill="#ff5caa" stroke="#fff" stroke-width="1.2"/></g></svg>

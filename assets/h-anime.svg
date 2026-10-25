@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 80" width="620" height="80"><style>
+.tw{animation:tw 1.8s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes tw{0%,100%{opacity:.25;transform:scale(.6) rotate(0)}50%{opacity:1;transform:scale(1.15) rotate(25deg)}}
+.bob{animation:bob 2.6s ease-in-out infinite;transform-box:fill-box}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+.wig{animation:wig 2.2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes wig{0%,100%{transform:rotate(-5deg)}50%{transform:rotate(5deg)}}
+.pop{animation:pop 1.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes pop{0%,100%{transform:scale(1)}50%{transform:scale(1.08)}}
+.blink{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}
+</style>
+<g class="pop"><path d="M170 12h280a22 22 0 0 1 22 22v14a22 22 0 0 1-22 22H230l-28 14 6-14h-38a22 22 0 0 1-22-22V34a22 22 0 0 1 22-22z" fill="#fff" stroke="#7cc4ff" stroke-width="3.5"/>
+<text x="310" y="51" text-anchor="middle" font-family="'Arial Rounded MT Bold','Varela Round','Comic Sans MS','Trebuchet MS',sans-serif" font-size="22" font-weight="900" fill="#3a8bff">アニメ ✦ anime log</text></g>
+<polygon class="tw" points="120.0,23.0 123.4,31.3 132.4,32.0 125.6,37.8 127.6,46.5 120.0,41.9 112.4,46.5 114.4,37.8 107.6,32.0 116.6,31.3" fill="#ff5caa" stroke="#fff" stroke-width="1.5"/><path class="tw" d="M505 14Q506.5 22.5 515 24Q506.5 25.5 505 34Q503.5 25.5 495 24Q503.5 22.5 505 14z" fill="#ffe46e"/><g transform="translate(520 60) scale(1.1)"><path class="pop" d="M0 4C-6-4-14 2-8 8L0 15 8 8C14 2 6-4 0 4z" fill="#ff8fd0" stroke="#fff" stroke-width="1.2"/></g></svg>

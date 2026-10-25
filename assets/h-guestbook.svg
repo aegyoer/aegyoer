@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 80" width="620" height="80"><style>
+.tw{animation:tw 1.8s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes tw{0%,100%{opacity:.25;transform:scale(.6) rotate(0)}50%{opacity:1;transform:scale(1.15) rotate(25deg)}}
+.bob{animation:bob 2.6s ease-in-out infinite;transform-box:fill-box}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+.wig{animation:wig 2.2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes wig{0%,100%{transform:rotate(-5deg)}50%{transform:rotate(5deg)}}
+.pop{animation:pop 1.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes pop{0%,100%{transform:scale(1)}50%{transform:scale(1.08)}}
+.blink{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}
+</style>
+<g class="bob"><path d="M130 22h50v40h-50l14-20z" fill="#d94a90"/><path d="M490 22h-50v40h50l-14-20z" fill="#d94a90"/>
+<rect x="165" y="14" width="290" height="44" fill="#ff5caa" stroke="#fff" stroke-width="3"/>
+<text x="310" y="44" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="22" font-weight="700" font-style="italic" fill="#fff">sign my guestbook ♡</text></g>
+<path class="tw" d="M100 20Q101.5 28.5 110 30Q101.5 31.5 100 40Q98.5 31.5 90 30Q98.5 28.5 100 20z" fill="#ffe46e"/><polygon class="tw" points="520.0,40.0 523.2,47.6 531.4,48.3 525.1,53.7 527.1,61.7 520.0,57.4 512.9,61.7 514.9,53.7 508.6,48.3 516.8,47.6" fill="#7cc4ff" stroke="#fff" stroke-width="1.5"/></svg>

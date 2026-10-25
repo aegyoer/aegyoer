@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 80" width="620" height="80"><style>
+.tw{animation:tw 1.8s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes tw{0%,100%{opacity:.25;transform:scale(.6) rotate(0)}50%{opacity:1;transform:scale(1.15) rotate(25deg)}}
+.bob{animation:bob 2.6s ease-in-out infinite;transform-box:fill-box}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+.wig{animation:wig 2.2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes wig{0%,100%{transform:rotate(-5deg)}50%{transform:rotate(5deg)}}
+.pop{animation:pop 1.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes pop{0%,100%{transform:scale(1)}50%{transform:scale(1.08)}}
+.blink{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}
+</style>
+<g class="wig"><rect x="150" y="18" width="320" height="48" fill="#fffaf0" stroke="#ff5caa" stroke-width="3" transform="rotate(-2 310 42)"/>
+<rect x="270" y="8" width="80" height="22" fill="#b89cff" opacity=".85" transform="rotate(4 310 19)"/>
+<text x="310" y="52" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="26" font-weight="700" fill="#2a1838" transform="rotate(-2 310 42)">✿ about me ✿</text></g>
+<g transform="translate(120 30) scale(1.6)"><path class="pop" d="M0 4C-6-4-14 2-8 8L0 15 8 8C14 2 6-4 0 4z" fill="#ff5caa" stroke="#fff" stroke-width="1.2"/></g><polygon class="tw" points="505.0,26.0 508.7,34.9 518.3,35.7 511.0,41.9 513.2,51.3 505.0,46.3 496.8,51.3 499.0,41.9 491.7,35.7 501.3,34.9" fill="#ffe46e" stroke="#fff" stroke-width="1.5"/><path class="tw" d="M540 13Q541.35 20.65 549 22Q541.35 23.35 540 31Q538.65 23.35 531 22Q538.65 20.65 540 13z" fill="#7cc4ff"/><path class="tw" d="M90 50Q91.2 56.8 98 58Q91.2 59.2 90 66Q88.8 59.2 82 58Q88.8 56.8 90 50z" fill="#7ee8c4"/></svg>

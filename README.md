@@ -1,139 +1,120 @@
 <div align="center">
 
-<img src="./assets/angel.gif" width="90"/><img src="./assets/nyagirl.gif" width="90"/><img src="./assets/chibi.gif" width="80"/>
+<img src="./assets/hello.svg" width="100%" alt="gunner aka aegyoer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=900&size=34&duration=2600&pause=700&color=FF5CAA&center=true&vCenter=true&width=520&height=60&lines=%E2%98%86+gunner+%E2%98%86;aka+aegyoer;%E3%83%BD(%3E%E2%88%80%3C%E2%98%86)%E3%83%8E" alt="gunner"/>
+<img src="./assets/marquee.svg" width="100%"/>
 
-<sub>✧ welcome 2 my room ✧ shoes off ✧ don't touch the cds ✧</sub>
+<img src="./assets/angel.gif" width="78"/> <img src="https://count.getloli.com/@aegyoer?name=aegyoer&theme=moebooru&padding=6&darkmode=0" height="70" alt="visitors"/> <img src="./assets/nyagirl.gif" width="78"/>
 
-<img src="https://img.shields.io/badge/linux-larper-5a326e?style=for-the-badge&logo=linux&logoColor=ffe46e&labelColor=ff5caa"/>
-<img src="https://img.shields.io/badge/♡-jersey_club_enthusiast-ff82be?style=plastic"/>
-<img src="https://img.shields.io/badge/internet-angel-c8afff?style=social"/>
-<img src="https://img.shields.io/badge/ARCHIVE-LOVER-ffe46e?style=for-the-badge&labelColor=5a326e"/>
-<img src="https://img.shields.io/badge/☮-peace_and_love-96ebcd?style=flat-square"/>
-<img src="https://img.shields.io/badge/wayback_machine-enjoyer-96cdff?style=flat"/>
-<img src="https://img.shields.io/badge/404-ff5caa?style=flat-square"/>
-<img src="https://img.shields.io/badge/●-online-96ebcd?style=flat-square&labelColor=1e1428"/>
+<img src="https://img.shields.io/badge/★_linux-larper-ffe46e?style=for-the-badge&labelColor=2a1838"/>
+<img src="https://img.shields.io/badge/♡-jersey_club_enthusiast-ff5caa?style=plastic"/>
+<img src="https://img.shields.io/badge/✧-internet_angel-b89cff?style=flat"/>
+<img src="https://img.shields.io/badge/ARCHIVE-LOVER-2a1838?style=for-the-badge&labelColor=7ee8c4"/>
+<img src="https://img.shields.io/badge/☮-peace_&_love-7cc4ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/wayback_machine-enjoyer-ff9a3c?style=plastic"/>
+<img src="https://img.shields.io/badge/404-ff8fd0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/geocities-my_roman_empire-ffe46e?style=flat-square&labelColor=ff5caa"/>
+<img src="https://img.shields.io/badge/●-online-7ee8c4?style=flat&labelColor=2a1838"/>
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/rainbow.svg" width="100%"/>
 
-<table>
-<tr>
-<td width="30%" align="center" valign="middle">
-<img src="./assets/bestie.jpg" width="170"/><br/>
-<sub>(◕‿◕)♡</sub>
-</td>
-<td width="44%" valign="top">
+<p align="center"><img src="./assets/h-about.svg" width="62%"/></p>
 
-#### ⋆ ˚｡⋆ ✦ about ✦ ⋆｡˚ ⋆
+<img align="right" src="./assets/chibi.gif" width="130"/>
+<img align="left" src="./assets/bestie.jpg" width="150"/>
 
-```ini
-[gunner.exe]
-alias    = aegyoer
-role     = internet angel / archive lover
-distro   = "arch" (it's ubuntu)
-genre    = jersey club, 24/7
-commits  = 3am only
-grass    = untouched
-location = ✎
-building = ✎
-```
+&nbsp;&nbsp;🎀 &nbsp;**gunner** on earth, **aegyoer** online<br/>
+&nbsp;&nbsp;💿 &nbsp;*internet angel / archive lover / part-time gremlin*<br/>
+&nbsp;&nbsp;🐧 &nbsp;distro: **"arch"** <sub>(it's ubuntu)</sub><br/>
+&nbsp;&nbsp;🎧 &nbsp;jersey club 24/7, no skips<br/>
+&nbsp;&nbsp;🌙 &nbsp;`3am commits only`<br/>
+&nbsp;&nbsp;🌱 &nbsp;grass status: <kbd>untouched</kbd><br/>
+&nbsp;&nbsp;📍 &nbsp;location: ✎<br/>
+&nbsp;&nbsp;🛠️ &nbsp;building: ✎<br/>
+&nbsp;&nbsp;💌 &nbsp;<kbd>do not perceive me</kbd> &nbsp;<sub>(◕‿◕)♡</sub>
 
-</td>
-<td width="26%" align="center" valign="middle">
-<img src="./assets/chibi.gif" width="120"/><br/>
-<kbd>do not perceive me</kbd>
-</td>
-</tr>
-</table>
+<br clear="both"/>
+
+<img src="./assets/kaomoji.svg" width="100%"/>
+
+<img src="./assets/rainbow.svg" width="100%"/>
+
+<p align="center"><img src="./assets/h-gifs.svg" width="62%"/></p>
 
 <p align="center">
-<code>(◕‿◕✿)</code> <b>ヽ(>∀<☆)ノ</b> <i>(=^･ω･^=)</i> <code>(｡♥‿♥｡)</code> <sup>ʕ•ᴥ•ʔ</sup> <b>(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</b> <sub>(っ˘ω˘ς)</sub> <code>٩(◕‿◕｡)۶</code> <i>(˶ᵔ ᵕ ᵔ˶)</i> <b>☆彡</b> <code>(≧◡≦)</code> <sup>(•ө•)♡</sup> <i>♪(´▽｀)</i> <code>ε(´｡•᎑•`)っ</code>
+<img src="./assets/glow.gif" width="49%" alt="now playing"/> <img src="./assets/neko.gif" width="49%" alt="nya"/>
+</p>
+<p align="center">
+<img src="./assets/usagi.gif" width="57%" alt="usagi mode"/> <img src="./assets/scream.gif" width="41%" alt="me debugging"/>
+</p>
+<p align="center">
+<sub><kbd>▶ now_playing.exe</kbd> &nbsp;✦&nbsp; <kbd>nya.gif</kbd> &nbsp;✦&nbsp; <kbd>usagi_mode.exe</kbd> &nbsp;✦&nbsp; <kbd>me debugging.mp4</kbd></sub>
 </p>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/rainbow.svg" width="100%"/>
 
-<table>
-<tr>
-<td width="58%" align="center">
-<img src="./assets/glow.gif" width="100%"/><br/>
-<kbd>▶ now_playing.exe</kbd>
-</td>
-<td width="42%" align="center">
-<img src="./assets/neko.gif" width="100%"/><br/>
-<kbd>nya.gif</kbd> <sub>(=^-ω-^=)</sub>
-<br/><br/>
-<img src="./assets/scream.gif" width="100%"/><br/>
-<kbd>me debugging.mp4</kbd>
-</td>
-</tr>
-</table>
+<p align="center"><img src="./assets/h-music.svg" width="62%"/></p>
 
-<table>
-<tr>
-<td width="20%" align="center" valign="middle">
-<img src="./assets/nyagirl.gif" width="110"/>
-</td>
-<td width="80%" align="center">
-<img src="./assets/usagi.gif" width="100%"/><br/>
-<kbd>usagi_mode.exe</kbd> <sub>✧٩(ˊωˋ*)و✧</sub>
-</td>
-</tr>
-</table>
+<!-- last.fm: swap YOUR_LASTFM for your last.fm username -->
+<p align="center">
+<a href="https://www.last.fm/user/YOUR_LASTFM"><img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=YOUR_LASTFM&count=4&width=440&radius=20&bg_color=fff0f8&text_color=2a1838&artist_color=ff5caa&meta_color=b89cff&accent_color=ff5caa&loved_color=ff5caa&loved=title" alt="last.fm"/></a> <img src="./assets/angel.gif" width="110"/>
+</p>
 
-<img src="./assets/divider.svg" width="100%"/>
+<!-- discord: join the Lanyard server (discord.gg/lanyard) then swap YOUR_DISCORD_ID for your user id -->
+<p align="center">
+<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?bg=ffd6ec&borderRadius=20px&idleMessage=probably%20listening%20to%20jersey%20club%20%E2%99%A1" alt="discord"/></a>
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="./assets/rainbow.svg" width="100%"/>
 
-##### 🖥️ magical girl arsenal
+<p align="center"><img src="./assets/h-anime.svg" width="62%"/></p>
 
+<!-- anilist: swap YOUR_ANILIST for your anilist username -->
+<p align="center">
+<a href="https://anilist.co/user/YOUR_ANILIST"><img src="https://api.anicards.alpha49.com/card.svg?cardType=animeStats&userName=YOUR_ANILIST&variation=default&backgroundColor=%23fff0f8&titleColor=%23ff5caa&textColor=%232a1838&circleColor=%23b89cff&borderColor=%23ff8fd0&borderRadius=20" width="49%" alt="anime stats"/></a>
+<a href="https://anilist.co/user/YOUR_ANILIST"><img src="https://api.anicards.alpha49.com/card.svg?cardType=animeGenres&userName=YOUR_ANILIST&variation=pie&backgroundColor=%23fff0f8&titleColor=%23ff5caa&textColor=%232a1838&circleColor=%23b89cff&borderColor=%23ff8fd0&borderRadius=20" width="49%" alt="anime genres"/></a>
+</p>
+
+<img src="./assets/rainbow.svg" width="100%"/>
+
+<p align="center"><img src="./assets/h-stats.svg" width="62%"/></p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aegyoer&show_icons=true&hide_border=true&border_radius=20&bg_color=fff0f8&title_color=ff5caa&icon_color=b89cff&text_color=2a1838" height="160"/>
+<img src="https://streak-stats.demolab.com?user=aegyoer&background=FFF0F8&ring=FF5CAA&fire=FF9A3C&currStreakNum=2A1838&sideNums=2A1838&currStreakLabel=FF5CAA&sideLabels=B89CFF&dates=B89CFF&stroke=FFC8E4&hide_border=true&border_radius=20" height="160"/>
+</p>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aegyoer&bg_color=fff0f8&color=2a1838&line=ff5caa&point=b89cff&area=true&area_color=ffc8e4&hide_border=true&radius=20" width="98%"/>
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/aegyoer/aegyoer/output/snake.svg" width="98%" alt="pink snake eating my commits"/>
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/HTML-ffc8e4?style=for-the-badge&logo=html5&logoColor=ff5caa"/>
-<img src="https://img.shields.io/badge/CSS-c8afff?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JS-ffe46e?style=plastic&logo=javascript&logoColor=5a326e"/>
-<img src="https://img.shields.io/badge/Python-96cdff?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-b89cff?style=plastic&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JS-ffe46e?style=flat-square&logo=javascript&logoColor=2a1838"/>
+<img src="https://img.shields.io/badge/Python-7cc4ff?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-ff5caa?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux_(larp)-1e1428?style=flat-square&logo=linux&logoColor=ffe46e"/>
+<img src="https://img.shields.io/badge/Linux_(larp)-2a1838?style=plastic&logo=linux&logoColor=ffe46e"/>
+</p>
 
-</td>
-<td width="50%" valign="top">
+<img src="./assets/rainbow.svg" width="100%"/>
 
-##### 📼 currently
+<p align="center"><img src="./assets/h-guestbook.svg" width="62%"/></p>
 
-> 🎧 on repeat — ✎ *(jersey club obviously)*<br/>
-> 🎀 obsessed with — ✎<br/>
-> 🍓 snack — ✎<br/>
-> 💾 ricing my desktop instead of working
+<div align="center">
 
-</td>
-</tr>
-</table>
+<img src="./assets/chibi.gif" width="60"/> <img src="./assets/nyagirl.gif" width="70"/> <img src="./assets/angel.gif" width="60"/>
+
+**leave a ⭐ to sign** &nbsp;·&nbsp; <sub>best viewed in netscape navigator 4.0 @ 800×600</sub>
 
 <details>
 <summary><b>✦ click 4 secret ✦</b></summary>
 <br/>
-
-```txt
-  ✧･ﾟ: *✧･ﾟ:* geocities is my roman empire *:･ﾟ✧*:･ﾟ✧
-  dial-up in my soul ♡ y2k forever ♡ posting thru it
-```
-
+<sub>ﾟ･✿ dial-up in my soul ✿･ﾟ y2k forever ﾟ･✿ posting thru it ✿･ﾟ</sub>
 </details>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=aegyoer&show_icons=true&hide_border=true&bg_color=fff0f8&title_color=ff5caa&icon_color=c8afff&text_color=5a326e"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aegyoer&layout=compact&hide_border=true&bg_color=fff0f8&title_color=ff5caa&text_color=5a326e"/>
-</p>
-
-<div align="center">
-
-<img src="./assets/angel.gif" width="60"/> <img src="https://komarev.com/ghpvc/?username=aegyoer&color=ff5caa&style=for-the-badge&label=VISITORS"/> <img src="./assets/chibi.gif" width="50"/>
-
-<sub>☆ best viewed in netscape navigator 4.0 @ 800×600 ☆ pls sign my guestbook (leave a ⭐) ☆</sub>
 
 </div>

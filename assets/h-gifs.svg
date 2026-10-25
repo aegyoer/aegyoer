@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 80" width="620" height="80"><style>
+.tw{animation:tw 1.8s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes tw{0%,100%{opacity:.25;transform:scale(.6) rotate(0)}50%{opacity:1;transform:scale(1.15) rotate(25deg)}}
+.bob{animation:bob 2.6s ease-in-out infinite;transform-box:fill-box}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+.wig{animation:wig 2.2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes wig{0%,100%{transform:rotate(-5deg)}50%{transform:rotate(5deg)}}
+.pop{animation:pop 1.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes pop{0%,100%{transform:scale(1)}50%{transform:scale(1.08)}}
+.blink{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}
+</style>
+<g class="bob"><rect x="110" y="14" width="400" height="52" rx="10" fill="#ff5caa" stroke="#fff" stroke-width="3"/>
+<rect x="118" y="22" width="384" height="36" rx="6" fill="#ff8fd0"/>
+<text x="134" y="47" font-family="'Courier New',ui-monospace,monospace" font-size="19" font-weight="700" fill="#fff">C:\gunner\my_gifs.exe</text>
+<circle cx="452" cy="40" r="7" fill="#ffe46e" stroke="#2a1838"/><circle cx="472" cy="40" r="7" fill="#7ee8c4" stroke="#2a1838"/><circle cx="492" cy="40" r="7" fill="#fff" stroke="#2a1838"/></g>
+<polygon class="tw" points="80.0,25.0 84.0,34.5 94.3,35.4 86.4,42.1 88.8,52.1 80.0,46.8 71.2,52.1 73.6,42.1 65.7,35.4 76.0,34.5" fill="#7cc4ff" stroke="#fff" stroke-width="1.5"/><polygon class="tw" points="545.0,19.0 547.9,26.0 555.5,26.6 549.7,31.5 551.5,38.9 545.0,35.0 538.5,38.9 540.3,31.5 534.5,26.6 542.1,26.0" fill="#ffe46e" stroke="#fff" stroke-width="1.5"/><g transform="translate(560 56) scale(1)"><path class="pop" d="M0 4C-6-4-14 2-8 8L0 15 8 8C14 2 6-4 0 4z" fill="#b89cff" stroke="#fff" stroke-width="1.2"/></g></svg>
