@@ -15,37 +15,33 @@
 
 <p align="center"><img src="./assets/about-title.svg" width="420" alt="about me"/></p>
 
-<img align="left" src="./assets/nini.png" width="170"/>
-<img align="right" src="./assets/chii.png" width="170"/>
+<img align="left" src="./assets/nini2.png" width="190"/>
+<img align="right" src="./assets/chii2.png" width="190"/>
 
 <div align="center">
 
-<br/>
-
-✧･ﾟ: *✧･ﾟ:* ♡ *:･ﾟ✧*:･ﾟ✧
+<img src="./assets/div-a.png" width="300"/>
 
 🎀 **gunner** on earth, **aegyoer** online 🎀<br/>
 💿 *internet angel / archive lover / part-time gremlin* 💿<br/>
 🐧 distro: **"arch"** <sub>(it's ubuntu)</sub> 🐧
 
-⋆｡°✩ ━━━━━━ ✩°｡⋆
+<img src="./assets/div-b.png" width="300"/>
 
 🎧 jersey club 24/7, no skips 🎧<br/>
 🌙 `3am commits only` 🌙<br/>
 🌱 grass status: <kbd>untouched</kbd> 🌱
 
-⋆｡°✩ ━━━━━━ ✩°｡⋆
+<img src="./assets/div-c.png" width="300"/>
 
 📍 location: ✎<br/>
 🛠️ building: ✎<br/>
 💌 <kbd>do not perceive me</kbd> <sub>(◕‿◕)♡</sub>
 
-₊˚⊹♡ ₊˚⊹♡ ₊˚⊹♡
-
 </div>
 
 <br clear="both"/>
 
-<p align="center"><img src="./assets/ascii-rainbow.svg" width="300" alt="rainbow ascii art"/><br/><sub>⋆ ˚｡⋆୨୧˚ thx for reading ˚୨୧⋆｡˚ ⋆</sub></p>
+<p align="center"><img src="./assets/ascii-wall.png" width="100%" alt="rainbow ascii art"/></p>
 
 <p align="center"><img src="./assets/likes19.png" width="100%" alt="likes: moe, gyaru, nge, jjba, league, music, pinponpanpon, politics. dislikes: larps, fanservice, slop, light mode, mid takes, net jitter, dead links, failed ragebait"/></p>
