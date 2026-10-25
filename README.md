@@ -13,10 +13,12 @@
 
 <img src="./assets/rainbow.svg" width="100%"/>
 
-<p align="center"><img src="./assets/h-about.svg" width="62%"/></p>
+<p align="center"><img src="./assets/about-title.svg" width="420" alt="about me"/></p>
 
-<img align="right" src="./assets/chibi.gif" width="130"/>
-<img align="left" src="./assets/bestie.jpg" width="150"/>
+<img align="left" src="./assets/nini.png" width="170"/>
+<img align="right" src="./assets/chii.png" width="170"/>
+
+<br/>
 
 &nbsp;&nbsp;🎀 &nbsp;**gunner** on earth, **aegyoer** online<br/>
 &nbsp;&nbsp;💿 &nbsp;*internet angel / archive lover / part-time gremlin*<br/>
@@ -29,3 +31,5 @@
 &nbsp;&nbsp;💌 &nbsp;<kbd>do not perceive me</kbd> &nbsp;<sub>(◕‿◕)♡</sub>
 
 <br clear="both"/>
+
+<p align="center"><img src="./assets/likes19.png" width="100%" alt="likes: moe, gyaru, nge, jjba, league, music, pinponpanpon, politics. dislikes: larps, fanservice, slop, light mode, mid takes, net jitter, dead links, failed ragebait"/></p>
