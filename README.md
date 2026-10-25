@@ -21,20 +21,19 @@
 
 <img src="./assets/div-a.png" width="280"/>
 
-🎀 **gunner** on earth, **aegyoer** online 🎀<br/>
-💿 *internet angel / archive lover / part-time gremlin* 💿<br/>
+🎀 **gunner** aka **aegyoer** 🎀<br/>
+💿 *raver angel* 💿<br/>
 🐧 distro: **"arch"** <sub>(it's ubuntu)</sub> 🐧
 
 <img src="./assets/div-b.png" width="280"/>
 
-🎧 jersey club 24/7, no skips 🎧<br/>
-🌙 3am commits only 🌙<br/>
-🌱 grass status: untouched 🌱
+🎧 jersey club fan 🎧<br/>
+🌙 full time neet 🌙<br/>
+💮 full time chud 💮
 
 <img src="./assets/div-c.png" width="280"/>
 
-📍 location: ✎<br/>
-🛠️ building: ✎<br/>
+📍 location: <br/>
 💌 do not perceive me (◕‿◕)♡
 
 ╰─────── ⋆｡˚ ❀ ˚｡⋆ ───────╯
