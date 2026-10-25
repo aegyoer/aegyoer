@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 98" width="860" height="98">
+<style>
+.bob{animation:bob 2.8s ease-in-out infinite}@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+.tw{animation:tw 1.6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes tw{0%,100%{opacity:.2;transform:scale(.5)}50%{opacity:1;transform:scale(1.2)}}
+.pulse{animation:pu 1.2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes pu{50%{transform:scale(.6);opacity:.5}}
+</style>
+<g class="bob" style="animation-delay:0.00s"><g transform="rotate(-1.5 132.8 25.0)">
+<rect x="65.3" y="11.0" width="138.0" height="34" rx="17.0" fill="#c98a00" opacity=".25"/>
+<rect x="63.8" y="8.0" width="138.0" height="34" rx="17.0" fill="#fff3b0" stroke="#fff" stroke-width="2.5"/>
+<circle cx="80.8" cy="25.0" r="11" fill="#fff"/><text x="80.80000000000001" y="30.0" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="700" fill="#c98a00">★</text>
+<text x="99.8" y="30.0" font-family="'Trebuchet MS','Varela Round','Nunito',Verdana,sans-serif" font-size="14" font-weight="700" fill="#c98a00" textLength="76" lengthAdjust="spacingAndGlyphs">linux larp</text>
+<path d="M187.8 14.0l1.5 3.5 3.5 1.5-3.5 1.5-1.5 3.5-1.5-3.5-3.5-1.5 3.5-1.5z" fill="#fff" class="tw" style="animation-delay:0.0s"/>
+</g></g><g class="bob" style="animation-delay:0.27s"><g transform="rotate(1.2 328.4 25.0)">
+<rect x="215.3" y="11.0" width="229.2" height="34" rx="17.0" fill="#e0428f" opacity=".25"/>
+<rect x="213.8" y="8.0" width="229.2" height="34" rx="17.0" fill="#ffd3ea" stroke="#fff" stroke-width="2.5"/>
+<circle cx="230.8" cy="25.0" r="11" fill="#fff"/><text x="230.8" y="30.0" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="700" fill="#e0428f">♡</text>
+<text x="249.8" y="30.0" font-family="'Trebuchet MS','Varela Round','Nunito',Verdana,sans-serif" font-size="14" font-weight="700" fill="#e0428f" textLength="167" lengthAdjust="spacingAndGlyphs">jersey club enthusiast</text>
+<path d="M429.0 14.0l1.5 3.5 3.5 1.5-3.5 1.5-1.5 3.5-1.5-3.5-3.5-1.5 3.5-1.5z" fill="#fff" class="tw" style="animation-delay:0.4s"/>
+</g></g><g class="bob" style="animation-delay:0.54s"><g transform="rotate(-0.8 539.2 25.0)">
+<rect x="456.5" y="11.0" width="168.4" height="34" rx="17.0" fill="#7d5ce0" opacity=".25"/>
+<rect x="455.0" y="8.0" width="168.4" height="34" rx="17.0" fill="#e6dcff" stroke="#fff" stroke-width="2.5"/>
+<circle cx="472.0" cy="25.0" r="11" fill="#fff"/><text x="472.0" y="30.0" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="700" fill="#7d5ce0">✧</text>
+<text x="491.0" y="30.0" font-family="'Trebuchet MS','Varela Round','Nunito',Verdana,sans-serif" font-size="14" font-weight="700" fill="#7d5ce0" textLength="106" lengthAdjust="spacingAndGlyphs">internet angel</text>
+<path d="M609.4 14.0l1.5 3.5 3.5 1.5-3.5 1.5-1.5 3.5-1.5-3.5-3.5-1.5 3.5-1.5z" fill="#fff" class="tw" style="animation-delay:0.8s"/>
+</g></g><g class="bob" style="animation-delay:0.81s"><g transform="rotate(1.6 715.8 25.0)">
+<rect x="636.9" y="11.0" width="160.8" height="34" rx="17.0" fill="#1f9e78" opacity=".25"/>
+<rect x="635.4" y="8.0" width="160.8" height="34" rx="17.0" fill="#cdf6e8" stroke="#fff" stroke-width="2.5"/>
+<circle cx="652.4" cy="25.0" r="11" fill="#fff"/><text x="652.4" y="30.0" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="700" fill="#1f9e78">⌂</text>
+<text x="671.4" y="30.0" font-family="'Trebuchet MS','Varela Round','Nunito',Verdana,sans-serif" font-size="14" font-weight="700" fill="#1f9e78" textLength="99" lengthAdjust="spacingAndGlyphs">archive lover</text>
+<path d="M782.2 14.0l1.5 3.5 3.5 1.5-3.5 1.5-1.5 3.5-1.5-3.5-3.5-1.5 3.5-1.5z" fill="#fff" class="tw" style="animation-delay:1.2s"/>
+</g></g><g class="bob" style="animation-delay:1.08s"><g transform="rotate(-1.2 211.6 73.0)">
+<rect x="136.5" y="59.0" width="153.2" height="34" rx="17.0" fill="#2f7fd6" opacity=".25"/>
+<rect x="135.0" y="56.0" width="153.2" height="34" rx="17.0" fill="#d4ebff" stroke="#fff" stroke-width="2.5"/>
+<circle cx="152.0" cy="73.0" r="11" fill="#fff"/><text x="152.0" y="78.0" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="700" fill="#2f7fd6">☮</text>
+<text x="171.0" y="78.0" font-family="'Trebuchet MS','Varela Round','Nunito',Verdana,sans-serif" font-size="14" font-weight="700" fill="#2f7fd6" textLength="91" lengthAdjust="spacingAndGlyphs">peace &amp; love</text>
+<path d="M274.2 62.0l1.5 3.5 3.5 1.5-3.5 1.5-1.5 3.5-1.5-3.5-3.5-1.5 3.5-1.5z" fill="#fff" class="tw" style="animation-delay:1.6s"/>
+</g></g><g class="bob" style="animation-delay:1.35s"><g transform="rotate(0.9 452.8 73.0)">
+<rect x="301.7" y="59.0" width="305.2" height="34" rx="17.0" fill="#e0702a" opacity=".25"/>
+<rect x="300.2" y="56.0" width="305.2" height="34" rx="17.0" fill="#ffe0cc" stroke="#fff" stroke-width="2.5"/>
+<circle cx="317.2" cy="73.0" r="11" fill="#fff"/><text x="317.2" y="78.0" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="700" fill="#e0702a">✿</text>
+<text x="336.2" y="78.0" font-family="'Trebuchet MS','Varela Round','Nunito',Verdana,sans-serif" font-size="14" font-weight="700" fill="#e0702a" textLength="243" lengthAdjust="spacingAndGlyphs">anthropomorphic anime girl lover</text>
+<path d="M591.4 62.0l1.5 3.5 3.5 1.5-3.5 1.5-1.5 3.5-1.5-3.5-3.5-1.5 3.5-1.5z" fill="#fff" class="tw" style="animation-delay:2.0s"/>
+</g></g><g class="bob" style="animation-delay:1.62s"><g transform="rotate(-1.4 671.2 73.0)">
+<rect x="618.9" y="59.0" width="107.6" height="34" rx="17.0" fill="#22a85a" opacity=".25"/>
+<rect x="617.4" y="56.0" width="107.6" height="34" rx="17.0" fill="#d8f7e2" stroke="#fff" stroke-width="2.5"/>
+<circle cx="634.4" cy="73.0" r="11" fill="#fff"/><circle cx="634.4" cy="73.0" r="5" fill="#22a85a" class="pulse"/>
+<text x="653.4" y="78.0" font-family="'Trebuchet MS','Varela Round','Nunito',Verdana,sans-serif" font-size="14" font-weight="700" fill="#22a85a" textLength="46" lengthAdjust="spacingAndGlyphs">online</text>
+<path d="M711.0 62.0l1.5 3.5 3.5 1.5-3.5 1.5-1.5 3.5-1.5-3.5-3.5-1.5 3.5-1.5z" fill="#fff" class="tw" style="animation-delay:2.4s"/>
+</g></g></svg>
