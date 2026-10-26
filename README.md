@@ -24,4 +24,4 @@
 
 <img src="./assets/rainbow.svg" width="100%"/>
 <p align="center"><img src="./assets/movies-title.svg" width="330" alt="movies"/></p>
-<p align="center"><a href="https://letterboxd.com/fents/"><img src="./assets/letterboxd.svg?v=1793053109" width="75%" alt="gunner's cinema on letterboxd"/></a></p>
+<p align="center"><a href="https://letterboxd.com/fents/"><img src="./assets/letterboxd.svg?v=1793053109" width="100%" alt="gunner's cinema on letterboxd"/></a></p>
