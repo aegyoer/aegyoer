@@ -13,10 +13,10 @@
 
 <img src="./assets/rainbow.svg" width="100%"/>
 
-<img align="left" src="./assets/likes-L6.png" width="33%" alt="likes: moe, gyaru, nge, jjba, league, music, pinponpanpon, politics"/>
-<img align="right" src="./assets/dislikes-R6.png" width="33%" alt="dislikes: double standards, fanservice, slop, light mode, mid takes, net jitter, dead links, failed ragebait"/>
+<img align="left" src="./assets/likes-L6.png" width="30%" alt="likes: moe, gyaru, nge, jjba, league, music, pinponpanpon, politics"/>
+<img align="right" src="./assets/dislikes-R6.png" width="30%" alt="dislikes: double standards, fanservice, slop, light mode, mid takes, net jitter, dead links, failed ragebait"/>
 
-<div align="center"><img src="./assets/about-title2.svg" width="300" alt="about me"/></div>
+<div align="center"><img src="./assets/about-title2.svg" width="240" alt="about me"/></div>
 
 <div align="center">
 
