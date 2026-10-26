@@ -15,6 +15,9 @@
 
 <p align="center"><img src="./assets/about-title2.svg" width="420" alt="about me"/></p>
 
+<img align="left" src="./assets/likes-L.png" width="31%" alt="likes: moe, gyaru, nge, jjba, league, music, pinponpanpon, politics"/>
+<img align="right" src="./assets/dislikes-R2.png" width="31%" alt="dislikes: double standards, fanservice, slop, light mode, mid takes, net jitter, dead links, failed ragebait"/>
+
 <div align="center">
 
 ╭─────── ⋆｡˚ ❀ ˚｡⋆ ───────╮
@@ -29,11 +32,11 @@
 
 🎧 jersey club fan 🎧<br/>
 🌙 full time neet 🌙<br/>
-💮 full time chud 💮
+🌸 full time chud 🌸
 
 <img src="./assets/div-c.png" width="280"/>
 
-📍 location: extraterrestrial realm <br/>
+📍 location: extraterrestrial realm<br/>
 💌 do not perceive me (◕‿◕)♡
 
 ╰─────── ⋆｡˚ ❀ ˚｡⋆ ───────╯
@@ -41,5 +44,3 @@
 </div>
 
 <br clear="both"/>
-
-<p align="center"><img src="./assets/likes19.png" width="100%" alt="likes: moe, gyaru, nge, jjba, league, music, pinponpanpon, politics. dislikes: larps, fanservice, slop, light mode, mid takes, net jitter, dead links, failed ragebait"/></p>
