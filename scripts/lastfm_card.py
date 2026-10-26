@@ -14,13 +14,23 @@ def call(method, **kw):
         return json.load(r)
 
 
+PLACEHOLDER = "2a96cbd8b46e442fc41c2b86b821562f"   # last.fm's grey star "no art" image
+
+
 def art_b64(url):
-    if not url:
+    if not url or PLACEHOLDER in url:
         return None
     try:
-        with urllib.request.urlopen(url, timeout=20) as r:
-            return "data:image/jpeg;base64," + base64.b64encode(r.read()).decode()
-    except Exception:
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (readme card)"})
+        with urllib.request.urlopen(req, timeout=20) as r:
+            data = r.read()
+            kind = r.headers.get_content_type() or ""
+        if not kind.startswith("image/"):
+            kind = "image/png" if data[:4] == b"\x89PNG" else "image/gif" if data[:3] == b"GIF" else "image/jpeg"
+        print("art ok", url, kind, len(data))
+        return f"data:{kind};base64," + base64.b64encode(data).decode()
+    except Exception as e:
+        print("art failed", url, e)
         return None
 
 
@@ -29,6 +39,7 @@ def fetch():
     tracks = []
     for t in rt["track"][:5]:
         imgs = {i["size"]: i["#text"] for i in t.get("image", [])}
+        print("track", t["name"], "-", t["artist"]["#text"], imgs.get("extralarge"))
         tracks.append({
             "name": t["name"], "artist": t["artist"]["#text"],
             "art": art_b64(imgs.get("extralarge") or imgs.get("large")),
