@@ -20,4 +20,4 @@
 
 <p align="center"><img src="./assets/music-title.svg" width="330" alt="music"/></p>
 
-<p align="center"><a href="https://www.last.fm/user/u-u-u-u-u"><img align="top" src="./assets/cd-wall.png" width="37%" alt="spinning cd"/></a>&nbsp;<a href="https://www.last.fm/user/u-u-u-u-u"><img align="top" src="./assets/lastfm.svg?v=1" width="60%" alt="now spinning on last.fm"/></a></p>
+<p align="center"><a href="https://www.last.fm/user/u-u-u-u-u"><img src="./assets/lastfm.svg?v=1" width="70%" alt="now spinning on last.fm"/></a></p>
