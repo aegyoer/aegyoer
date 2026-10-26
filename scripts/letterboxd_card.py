@@ -11,14 +11,15 @@ USER = "fents"
 # your top 4: ("name shown on the card", "the film's letterboxd link name", from letterboxd.com/film/<this>/)
 # leave it empty ( TOP4 = [] ) to use the favourites on your letterboxd profile instead
 TOP4 = [
-    ("All About Lily Chou-Chou", "all-about-lily-chou-chou"),
+    ("Lily Chou-Chou", "all-about-lily-chou-chou"),
     ("3-Iron", "3-iron"),
     ("Lan Yu", "lan-yu"),
     ("Better Days", "better-days-2019"),
 ]
 
 FEED = f"https://letterboxd.com/{USER}/rss/"
-OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "assets", "letterboxd.svg")
+ASSETS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "assets")
+OUT = os.path.join(ASSETS, "letterboxd.svg")
 UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"}
 
 HOT, LAV, INK, MINT, YEL, BLUE = "#ff5caa", "#a073ff", "#2a1838", "#46cd9b", "#ffcd32", "#46a0ff"
@@ -102,6 +103,15 @@ def slugify(t):
     return re.sub(r"[^a-z0-9]+", "-", t.lower()).strip("-")
 
 
+def local_top(i):
+    for ext, kind in (("jpg", "jpeg"), ("jpeg", "jpeg"), ("png", "png"), ("webp", "webp")):
+        p = os.path.join(ASSETS, f"top{i}.{ext}")
+        if os.path.exists(p):
+            print("using your picture", p)
+            return f"data:image/{kind};base64," + base64.b64encode(open(p, "rb").read()).decode()
+    return None
+
+
 def top4(films):
     by_title = {f["title"].lower(): f for f in films}
     picks = []
@@ -131,7 +141,10 @@ def top4(films):
         picks = [(f["title"], f["slug"]) for f in best[:4]]
         print("favourites fell back to top rated:", picks)
     out = []
-    for title, slug in picks:
+    for i, (title, slug) in enumerate(picks, 1):
+        mine = local_top(i)
+        if mine:     # your own picture in assets/top1.jpg ... top4.jpg wins
+            out.append({"title": title, "poster": mine}); continue
         f = by_title.get(title.lower())
         url = f["img"] if f and f["img"] else (poster_for_slug(slug) if slug else None)
         out.append({"title": title, "poster": poster_b64(url, "mid")})
@@ -155,7 +168,7 @@ def demo():
             ("Akira", "1988", 4, False, "", "2026-09-28"), ("Whisper of the Heart", "1995", 5, True, "", "2026-09-25")]
     films = [{"title": t, "year": y, "rating": r, "liked": l, "rewatch": False, "watched": d, "review": rv, "poster": None}
              for t, y, r, l, rv, d in rows]
-    top = [{"title": t, "poster": None} for t in ["Perfect Blue", "Paprika", "Whisper of the Heart", "Chungking Express"]]
+    top = [{"title": t[0], "poster": local_top(i)} for i, t in enumerate(TOP4, 1)]
     return films, top
 
 
