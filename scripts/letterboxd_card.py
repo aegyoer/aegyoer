@@ -8,9 +8,14 @@ from datetime import date, datetime
 from html import escape, unescape
 
 USER = "fents"
-# leave empty to use the 4 favourites on your letterboxd profile,
-# or type your own like: TOP4 = ["Perfect Blue", "Paprika", "Spirited Away", "Tokyo Godfathers"]
-TOP4 = []
+# your top 4: ("name shown on the card", "the film's letterboxd link name", from letterboxd.com/film/<this>/)
+# leave it empty ( TOP4 = [] ) to use the favourites on your letterboxd profile instead
+TOP4 = [
+    ("All About Lily Chou-Chou", "all-about-lily-chou-chou"),
+    ("3-Iron", "3-iron"),
+    ("Lan Yu", "lan-yu"),
+    ("Better Days", "better-days-2019"),
+]
 
 FEED = f"https://letterboxd.com/{USER}/rss/"
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "assets", "letterboxd.svg")
@@ -101,7 +106,7 @@ def top4(films):
     by_title = {f["title"].lower(): f for f in films}
     picks = []
     if TOP4:
-        picks = [(t, slugify(t)) for t in TOP4[:4]]
+        picks = [(t if isinstance(t, str) else t[0], slugify(t) if isinstance(t, str) else t[1]) for t in TOP4[:4]]
     else:
         try:
             html = get(f"https://letterboxd.com/{USER}/")[0].decode("utf-8", "replace")
@@ -248,24 +253,20 @@ def render(films, top):
                f'<text x="280" y="46" text-anchor="middle" font-family="{FONT}" font-size="18" font-weight="900" fill="#fff" stroke="{HOT}" stroke-width="4" stroke-linejoin="round" paint-order="stroke">gunner\'s cinema</text>')
 
     # --- the screen: most recent watch
-    if f0["review"]:
-        quote = wrap("“" + f0["review"] + "”", 38, 2)
-    else:
-        quote = [["no thoughts just vibes ♡", "absolute cinema ✧", "i'm normal about this ♡", "need to rewatch already ✧", "cinema (◕‿◕)"][sum(map(ord, f0["title"])) % 5]]
-    qlines = "".join(f'<text x="186" y="{192 + i * 16}" font-family="{FONT}" font-size="12" font-weight="700" font-style="italic" fill="#ffd6ea">{escape(l)}</text>' for i, l in enumerate(quote))
     when = nice_date(f0["watched"])
     sub = (f"watched {when}" if when else "") + (" · rewatch ↻" if f0["rewatch"] else "")
     liked = heart(328, 154, .8, HOT) if f0["liked"] else ""
     screen = (f'<rect x="62" y="80" width="436" height="160" rx="12" fill="{INK}" stroke="#fff" stroke-width="4"/>'
               f'<rect x="70" y="88" width="420" height="144" rx="8" fill="url(#glow)"/>'
               f'<rect x="80" y="96" width="86" height="128" rx="4" fill="#fff"/>{poster(83, 99, 80, 122, f0.get("poster"), "big")}'
+              f'<g transform="translate(0 30)">'
               f'<rect x="184" y="98" width="128" height="22" rx="11" fill="{HOT}"/>'
               f'<text x="248" y="113" text-anchor="middle" font-family="{FONT}" font-size="11.5" font-weight="900" fill="#fff">recently watched ♡</text>'
               f'<text x="186" y="146" font-family="{FONT}" font-size="21" font-weight="900" fill="#fff">{escape(cut(f0["title"], 24))}</text>'
               f'<text x="186" y="167" font-family="{FONT}" font-size="13" font-weight="800" fill="#c9b3ff">{escape(f0["year"])}</text>'
               f'{stars(232, 162, f0["rating"], .95, "m", "#4a3460", "#6d5590")}{liked}'
-              f'<text x="482" y="113" text-anchor="end" font-family="{FONT}" font-size="10" font-weight="700" fill="#9d88c0">{escape(sub)}</text>'
-              f'{qlines}{twinkle(478, 216, YEL, .2, .9)}{twinkle(464, 200, "#fff", .8, .6)}')
+              f'<text x="322" y="113" font-family="{FONT}" font-size="10.5" font-weight="700" fill="#9d88c0">{escape(sub)}</text></g>'
+              f'{twinkle(478, 216, YEL, .2, .9)}{twinkle(464, 200, "#fff", .8, .6)}')
 
     # --- top 4 trading cards
     rank_c = [YEL, HOT, LAV, BLUE]
