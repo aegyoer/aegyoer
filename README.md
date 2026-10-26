@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/hello.svg" width="100%" alt="gunner aka aegyoer"/>
+<img src="./assets/hello4.svg" width="100%" alt="gunner aka aegyoer"/>
 
-<img src="./assets/marquee.svg" width="100%"/>
+<img src="./assets/marquee3.svg" width="100%"/>
 
 <img align="top" src="./assets/L-top-c.png" width="34%"/><img align="top" src="./assets/visits.svg" width="230" alt="visits"/><img align="top" src="./assets/R-top-c.png" width="34%"/><br/>
 <img align="top" src="./assets/L-mid-c.png" width="34%"/><img align="top" src="https://count.getloli.com/@aegyoer?name=aegyoer&theme=moebooru&padding=6&darkmode=0" width="230" alt="visitors"/><img align="top" src="./assets/R-mid-c.png" width="34%"/><br/>
