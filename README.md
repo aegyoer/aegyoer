@@ -22,6 +22,6 @@
 
 <img src="./assets/music-strip.png" width="100%"/>
 
-<p align="center"><a href="https://www.last.fm/user/u-u-u-u-u"><img align="middle" src="./assets/cd-spin.png" width="37%" alt="spinning cd"/></a>&nbsp;<a href="https://www.last.fm/user/u-u-u-u-u"><img align="middle" src="./assets/lastfm.svg?v=1" width="60%" alt="now spinning on last.fm"/></a></p>
+<p align="center"><a href="https://www.last.fm/user/u-u-u-u-u"><img align="middle" src="./assets/cd-spin.png" width="37%" alt="spinning cd"/></a>&nbsp;<a href="https://www.last.fm/user/u-u-u-u-u"><img align="middle" src="./assets/lastfm.svg?v=1793048761" width="60%" alt="now spinning on last.fm"/></a></p>
 
 <img src="./assets/music-strip.png" width="100%"/>
