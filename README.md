@@ -16,7 +16,7 @@
 <img align="left" src="./assets/likes-L10.png" width="31%" alt="likes: moe, gyaru, nge, jjba, league, music, pinponpanpon, politics"/>
 <img align="right" src="./assets/dislikes-R10.png" width="31%" alt="dislikes: double standards, fanservice, slop, light mode, mid takes, net jitter, dead links, failed ragebait"/>
 
-<div align="center"><img src="./assets/about-title2.svg" width="330" alt="about me"/></div>
+<div align="center"><img src="./assets/about-title2.svg" width="27%" alt="about me"/></div>
 
 <div align="center">
 
