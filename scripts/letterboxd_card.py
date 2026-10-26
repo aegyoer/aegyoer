@@ -263,7 +263,7 @@ def render(films, top):
                     f'<g class="bulb" style="animation-delay:{i * dur / len(ring):.3f}s"><circle cx="{x}" cy="{y}" r="6" fill="{YEL}" opacity=".35"/>'
                     f'<circle cx="{x}" cy="{y}" r="3.4" fill="#fff6c2"/></g>' for i, (x, y) in enumerate(ring))
     marquee = (f'<rect x="164" y="10" width="232" height="58" rx="14" fill="{INK}" stroke="#fff" stroke-width="3"/>{bulbs}'
-               f'<text x="280" y="46" text-anchor="middle" font-family="{FONT}" font-size="18" font-weight="900" fill="#fff" stroke="{HOT}" stroke-width="4" stroke-linejoin="round" paint-order="stroke">gunner\'s cinema</text>')
+               f'<text x="281" y="48" text-anchor="middle" font-family="{FONT}" font-size="23" font-weight="900" letter-spacing="3" fill="#fff" stroke="{HOT}" stroke-width="5" stroke-linejoin="round" paint-order="stroke">movies</text>')
 
     # --- the screen: most recent watch
     when = nice_date(f0["watched"])
