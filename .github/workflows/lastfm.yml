@@ -25,5 +25,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/lastfm.svg
-          git diff --cached --quiet || git commit -m "♪ update now spinning"
-          git push
+          if ! git diff --cached --quiet; then
+            # new version number on the image link so github shows the fresh card, not a cached one
+            sed -i -E "s#assets/lastfm\.svg(\?v=[0-9]+)?\"#assets/lastfm.svg?v=$(date +%s)\"#" README.md
+            git add README.md
+            git commit -m "♪ update now spinning"
+            git push
+          fi
