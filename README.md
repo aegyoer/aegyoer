@@ -14,11 +14,3 @@
 <img src="./assets/rainbow.svg" width="100%"/>
 
 <p align="center"><img align="top" src="./assets/likes-L10.png" width="31%" alt="likes: moe, gyaru, nge, jjba, league, music, pinponpanpon, politics"/><img align="top" src="./assets/about-mid2.png" width="36%" alt="about me: gunner aka aegyoer. edm saves all. distro: arch (it's ubuntu). jersey club fan. full time neet. full time chud. location: extraterrestrial realm. do not perceive me"/><img align="top" src="./assets/dislikes-R10.png" width="31%" alt="dislikes: double standards, fanservice, slop, light mode, mid takes, net jitter, dead links, failed ragebait"/></p>
-
-
-<img src="./assets/rainbow.svg" width="100%"/>
-
-<p align="center"><a href="https://www.last.fm/user/u-u-u-u-u"><img src="./assets/lastfm.svg?v=1793051485" width="100%" alt="now spinning on last.fm"/></a></p>
-
-<img src="./assets/rainbow.svg" width="100%"/>
-<p align="center"><a href="https://letterboxd.com/fents/"><img src="./assets/letterboxd.svg?v=1793053767" width="100%" alt="movies on letterboxd"/></a></p>
