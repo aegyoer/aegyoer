@@ -21,3 +21,7 @@
 <p align="center"><img src="./assets/music-title.svg" width="330" alt="music"/></p>
 
 <p align="center"><a href="https://www.last.fm/user/u-u-u-u-u"><img src="./assets/lastfm.svg?v=1793051485" width="70%" alt="now spinning on last.fm"/></a></p>
+
+<img src="./assets/rainbow.svg" width="100%"/>
+<p align="center"><img src="./assets/movies-title.svg" width="330" alt="movies"/></p>
+<p align="center"><a href="https://letterboxd.com/fents/"><img src="./assets/letterboxd.svg?v=1" width="75%" alt="gunner's cinema on letterboxd"/></a></p>
