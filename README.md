@@ -21,4 +21,4 @@
 <p align="center"><a href="https://www.last.fm/user/u-u-u-u-u"><img src="./assets/lastfm.svg?v=1793051485" width="100%" alt="now spinning on last.fm"/></a></p>
 
 <img src="./assets/rainbow.svg" width="100%"/>
-<p align="center"><a href="https://letterboxd.com/fents/"><img src="./assets/letterboxd.svg?v=1793053658" width="100%" alt="movies on letterboxd"/></a></p>
+<p align="center"><a href="https://letterboxd.com/fents/"><img src="./assets/letterboxd.svg?v=1793053767" width="100%" alt="movies on letterboxd"/></a></p>
