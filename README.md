@@ -17,3 +17,9 @@
 
 
 <img src="./assets/rainbow.svg" width="100%"/>
+
+<p align="center"><img src="./assets/music-title.svg" width="330" alt="music"/></p>
+
+<p align="center"><img align="middle" src="./assets/cd-spin.png" width="34%" alt="spinning cd"/>&nbsp;&nbsp;<a href="https://www.last.fm/user/u-u-u-u-u"><img align="middle" src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=u-u-u-u-u&count=4&width=420&radius=26&header=0&stats=off&profile=off&footer=off&logo=0&username=0&avatar=0&bg_color=fff0f8&text_color=2a1838&artist_color=ff5caa&meta_color=b89cff&accent_color=ffb3dd&loved_color=ff5caa&loved=title" width="52%" alt="recently played on last.fm"/></a></p>
+
+<p align="center"><sub>♪ ˚₊‧ now spinning on <a href="https://www.last.fm/user/u-u-u-u-u">last.fm</a> ‧₊˚ ♪</sub></p>
