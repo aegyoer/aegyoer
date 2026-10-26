@@ -13,34 +13,4 @@
 
 <img src="./assets/rainbow.svg" width="100%"/>
 
-<img align="left" src="./assets/likes-L10.png" width="31%" alt="likes: moe, gyaru, nge, jjba, league, music, pinponpanpon, politics"/>
-<img align="right" src="./assets/dislikes-R10.png" width="31%" alt="dislikes: double standards, fanservice, slop, light mode, mid takes, net jitter, dead links, failed ragebait"/>
-
-<div align="center"><img src="./assets/about-title2.svg" width="27%" alt="about me"/></div>
-
-<div align="center">
-
-╭──── ⋆｡˚ ❀ ˚｡⋆ ────╮
-
-<img src="./assets/dv-a.png" width="200"/>
-
-🎀 **gunner** aka **aegyoer** 🎀<br/>
-💿 *edm saves all* 💿<br/>
-🐧 distro: **"arch"** <sub>(it's ubuntu)</sub> 🐧
-
-<img src="./assets/dv-b.png" width="200"/>
-
-🎧 jersey club fan 🎧<br/>
-🌙 full time neet 🌙<br/>
-🌸 full time chud 🌸
-
-<img src="./assets/dv-c.png" width="200"/>
-
-📍 location: extraterrestrial realm<br/>
-💌 do not perceive me (◕‿◕)♡
-
-╰──── ⋆｡˚ ❀ ˚｡⋆ ────╯
-
-</div>
-
-<br clear="both"/>
+<p align="center"><img align="top" src="./assets/likes-L10.png" width="31%" alt="likes: moe, gyaru, nge, jjba, league, music, pinponpanpon, politics"/><img align="top" src="./assets/about-mid.png" width="36%" alt="about me: gunner aka aegyoer. edm saves all. distro: arch (it's ubuntu). jersey club fan. full time neet. full time chud. location: extraterrestrial realm. do not perceive me"/><img align="top" src="./assets/dislikes-R10.png" width="31%" alt="dislikes: double standards, fanservice, slop, light mode, mid takes, net jitter, dead links, failed ragebait"/></p>
