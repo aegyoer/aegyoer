@@ -14,3 +14,6 @@
 <img src="./assets/rainbow.svg" width="100%"/>
 
 <p align="center"><img align="top" src="./assets/likes-L10.png" width="31%" alt="likes: moe, gyaru, nge, jjba, league, music, pinponpanpon, politics"/><img align="top" src="./assets/about-mid2.png" width="36%" alt="about me: gunner aka aegyoer. edm saves all. distro: arch (it's ubuntu). jersey club fan. full time neet. full time chud. location: extraterrestrial realm. do not perceive me"/><img align="top" src="./assets/dislikes-R10.png" width="31%" alt="dislikes: double standards, fanservice, slop, light mode, mid takes, net jitter, dead links, failed ragebait"/></p>
+
+
+<img src="./assets/rainbow.svg" width="100%"/>
